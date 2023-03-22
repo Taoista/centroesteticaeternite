@@ -1,0 +1,39 @@
+#especialidadSelect{
+    background-color: #525866;
+}
+
+select#especialidadSelect, option {
+  color: #525866;
+}
+
+.input__field.input__field--kohana.input-selected::placeholder{
+  color:#444;
+}
+
+/* * css para wassap boton flotante */
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+
+  .img-wsp-icon {
+    padding: 6px;
+  }
+
+  .img-wsp-icon-button{
+    width: 20px;
+    margin-right: 2px;
+  }
