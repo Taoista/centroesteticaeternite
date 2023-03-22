@@ -136,20 +136,8 @@
                                     <ul class="submenu">
                                         {{-- *menu original --}}
                                         @foreach (servicios() AS $item)
-                                        <li class="parent"> <a href="{{ url($item->url) }}">{{ strtoupper($item->nombre) }}</a> </i></li>
+                                        <li class="parent"> <a href="{{ url($item->url) }}">{{ ucfirst(strtolower($item->nombre)) }}</a> </i></li>
                                         @endforeach
-
-                                        {{-- <li class="parent"> <a href="{{ url("./hifu") }}">Hifu</a> </i></li>
-                                        <li class="parent"> <a href="#">Depilación Láser</a> <i
-                                            class="icon-chevron-small-right"></i>
-                                            <ul class="submenu">
-                                                <li> <a href="{{ url("./packs/PackMujer") }}">Mujer</a> </li>
-                                                <li><a href="{{ url("./packs/PackHombre") }}">Hombre</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="parent"> <a href="{{ url("./botox") }}">Botox</a> </li>
-                                        <li class="parent"> <a href="{{ url('./asido_hialuronico') }}">Acido Hialuronico</a> </li>
-                                        <li class="parent"> <a href="{{ url('./micropigmentacion') }}">Micropigmentación</a></li> --}}
                                     </ul>
 
                                 </li>
@@ -187,18 +175,9 @@
                 <nav id="menu">
                     <ul>
                         <li class="select"><a href="{{ url("./") }}">Inicio</a></li>
-                        {{-- <li class=""><a href="{{ url("./hifu") }}">Hifu</a></li>
-                        <li class="parent"> <a href="#"> Depilacion Laser</a> </i>
-                            <ul class="submenu">
-                                <li> <a href="{{ url("./packs/PackMujer") }}">Mujer</a> </li>
-                                <li> <a href="{{ url("./packs/PackHombre") }}">Hombre</a> </li>
-                            </ul>
-                        </li>
-                        <li class=""><a href="{{ url("./botox") }}">Botox</a></li>
-                        <li class=""><a href="{{ url('./asido_hialuronico') }}">Acido Hialuronico</a></li>
-                        <li class=""><a href="{{ url('./micropigmentacion') }}">Micropigmentación</a></li> --}}
+         
                         @foreach (servicios() AS $item)
-                        <li> <a href="{{ url($item->url) }}">{{ strtoupper($item->nombre) }}</a> </i></li>
+                        <li> <a href="{{ url($item->url) }}">{{  ucfirst(strtolower($item->nombre)) }}</a> </i></li>
                         @endforeach
                         <li class=""><a href="{{ url('./quienessomos') }}">Quienes somos</a></li>
                         <li class=""><a href="{{ url('./contactanos') }}">Contacto</a></li>

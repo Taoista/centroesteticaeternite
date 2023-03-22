@@ -22,5 +22,5 @@ function get_restriccion($id_pack){
 // * muestra el nuevo nav con las opciones modificadas
 function servicios()
 {
-    return NewNav::orderby("position", "ASC")->get();
+    return NewNav::orderby("nombre", "ASC")->get();
 }

@@ -87,7 +87,7 @@
                                         <br/><br/>
                                         {{ $item->txt2 }}
                                     </p>
-                                    <p class="price big dark">{{ format_money($item->precio) }}</p>
+                                    <p class="price big dark">DESDE {{ format_money($item->precio) }}</p>
                                     <a href="https://wa.me/{{ $item->url }}"  target="_blank"><img class="img-wsp-icon-button" src="{{ asset('assets/images/swp.svg') }}" alt="">Reservar</a>
                                 </div>
                             </div>

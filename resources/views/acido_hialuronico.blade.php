@@ -89,7 +89,7 @@
                                     <br /><br />
                                         {{ $item->txt2 }}
                                     </p>
-                                        <p class="price big dark">{{ format_money($item->precio) }}</p>
+                                        <p class="price big dark">DESDE{{ format_money($item->precio) }}</p>
                                         <a href="{{ $item->url }}">Lo quiero</a>
                                     </div>
                             </div>
