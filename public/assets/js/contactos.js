@@ -1,4 +1,3 @@
-
 function send_contacto(e){ 
     // console.log("iniciando msg: ");
     e.preventDefault();
@@ -18,10 +17,11 @@ function send_contacto(e){
     }else{
         // alert("sin terminar");
         const parametros = {"nombre":nombre, "email":email, "subject":subject, "msg":msg};
+
         const send_email = new Promise((resolve, reject) =>{
             $.ajax({
                 data: parametros,
-                url:  "./contactanos-send-email", 
+                url:  _Url+"contactanos-send-email", 
                 type: "POST",
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
@@ -39,6 +39,7 @@ function send_contacto(e){
                     $(".swal2-title").css("color","white");
                 },
                 success:function(response){
+                    console.log(response)
                     resolve(response);
                 }
             });
