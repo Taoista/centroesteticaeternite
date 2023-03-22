@@ -11,7 +11,7 @@ use App\Models\Configuracion;
 class ContactanosMailable extends Mailable{
     use Queueable, SerializesModels;
 
-    // public $subject = "Correo de contacto";
+    public $subject = "Correo de contacto";
 
     // public $email_subject = null;
 

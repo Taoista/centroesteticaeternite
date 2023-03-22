@@ -16,6 +16,7 @@ function send_contacto(e){
         Swal.fire('Error','Email invalido','error');
     }else{
         // alert("sin terminar");
+        console.log("enviando")
         const parametros = {"nombre":nombre, "email":email, "subject":subject, "msg":msg};
 
         const send_email = new Promise((resolve, reject) =>{
