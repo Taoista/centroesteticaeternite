@@ -21,6 +21,8 @@
 # Docker Larvel 8
 
 Contenedor Docker laravel 8.77 - php 8.1
+--
+con los cambios imprevistos, la base de datos cambio y la forma de como se ejecuta el backend, por ende es buena practiva reestructurar la base de datos
 
 ## Instalacion
 
