@@ -64,9 +64,9 @@
             </div>
 
             <div id="tabbed-nav">
-                <ul>
+                <ul class="z-tabs-nav z-tabs-desktop">
                     @foreach($especialidades AS $index => $item)
-                    <li><a>{{ $item->nombre }}</a></li>
+                    <li  class="demodemo"><a>{{ $item->nombre }}</a></li>
                     @endforeach
                 </ul>
                 <div>   
@@ -82,7 +82,7 @@
                             <div class="col-md-6">
                                 <div class="detail">
                                     <h4>{{ $item->nombre }}</h4>
-                                    <p>
+                                    <p class="text-center">
                                         {{ $item->txt1 }}
                                         <br/><br/>
                                         {{ $item->txt2 }}

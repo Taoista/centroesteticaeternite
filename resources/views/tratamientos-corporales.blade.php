@@ -82,7 +82,7 @@
                             <div class="col-md-6">
                                 <div class="detail">
                                     <h4>{{ $item->nombre }}</h4>
-                                    <p>
+                                    <p class="text-center">
                                         {{ $item->txt1 }}
                                         <br/><br/>
                                         {{ $item->txt2 }}
