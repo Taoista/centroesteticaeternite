@@ -47,6 +47,7 @@ function send_contacto(e){
         });
 
         send_email.then(res=>{
+            console.log(res);
             if(res == "ok"){
                 Swal.fire('Contacto','Su correo se envío correctamente, nos contactaremos en breve con ud.','success');
             }else{
