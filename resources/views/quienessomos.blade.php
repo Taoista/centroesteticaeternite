@@ -86,7 +86,6 @@
                                             </a></li>
                                             <li><a href="#">
                                                 Hiperhidrosis: Algunos pacientes refieren perdida del tacto fino, no suele interferir con tu rutina diara y tiene una duracion maxima de 2 semanas.
-                                                -CAMBIAR "Otra pregunta" por ´"Cuidados post tratamiento¨":
                                                 *No tomar baños de sauna, vapor o spa durante los primeros 3 dias del tratamiento.
                                                 *No sumergirse en agua los primeros dias (baños de tina, piscina).
                                                 *No realizar tratamientos de masaje facial los primeros dias.
