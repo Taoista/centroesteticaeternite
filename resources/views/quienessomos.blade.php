@@ -48,10 +48,10 @@
                                 <span class="title">Preguntas Frecuentes</span>
                                 <ul id="procedures-links" class="accordion">
                                     <li>
-                                        <div class="link">¿Donde quedan?<i class="icon-chevron-down"></i></div>
+                                        <div class="link">¿Donde están ubicados?<i class="icon-chevron-down"></i></div>
                                         <ul class="submenu">
                                             <li><a href="#.">
-                                                Av. Presidente Kennedy 5488 oficina 1106 torre norte 
+                                                Av. Presidente Kennedy 5488 oficina 1106 torre norte
                                             </a></li>
                                         </ul>
 
@@ -73,10 +73,10 @@
                                             <li><a href="#">{{ $item->nombre.' NO' }}</a></li>
                                             @endforeach --}}
                                             <li><a href="#">
-                                                Botox: Generalemnte no ocurren, pero en algunos casos se pueden generar hematomas (moretones) pequeños por la puncion, estos desaparecen de 5-7 dias en desaparecer . 
+                                                Botox: Generalemnte no ocurren, pero en algunos casos se pueden generar hematomas (moretones) pequeños por la puncion, estos desaparecen de 5-7 dias en desaparecer .
                                             </a></li>
                                             <li><a href="#">
-                                                Plasma rico en plaquetas: Post procedimiento inmediato es posible obervar enrojecimiento que cesa considerablmente a las 24 hrs , en algunos casos se pueden generar hematomas (moretones) pequeños por la puncion, estos desaparecen rapidamente entre 5-7 dias.    
+                                                Plasma rico en plaquetas: Post procedimiento inmediato es posible obervar enrojecimiento que cesa considerablmente a las 24 hrs , en algunos casos se pueden generar hematomas (moretones) pequeños por la puncion, estos desaparecen rapidamente entre 5-7 dias.
                                             </a></li>
                                             <li><a href="#">
                                                 Acido hialuronico: Post procedimiento se observa inflamacion en la zona tratada que disminuye gradualmente hasta llegar al dia 14 donde podras ver el real resultado. En algunos casos se pueden generar hematomas (moretones) pequeños por la puncion, estos desaparecen rapidamente en unos 7-15 dias.
@@ -85,14 +85,14 @@
                                                 Abdomen perfecto: Post procedimiento inmediato se podria evidenciar enrojecimiento en la zona tratada y hematomas (moretones) en algun sitio de puncion que desaparecen e  5-7 dias.
                                             </a></li>
                                             <li><a href="#">
-                                                Hiperhidrosis: Algunos pacientes refieren perdida del tacto fino, no suele interferir con tu rutina diara y tiene una duracion maxima de 2 semanas. 
+                                                Hiperhidrosis: Algunos pacientes refieren perdida del tacto fino, no suele interferir con tu rutina diara y tiene una duracion maxima de 2 semanas.
                                                 -CAMBIAR "Otra pregunta" por ´"Cuidados post tratamiento¨":
-                                                *No tomar baños de sauna, vapor o spa durante los primeros 3 dias del tratamiento. 
+                                                *No tomar baños de sauna, vapor o spa durante los primeros 3 dias del tratamiento.
                                                 *No sumergirse en agua los primeros dias (baños de tina, piscina).
                                                 *No realizar tratamientos de masaje facial los primeros dias.
                                                 *Beber por lo menos 2 litros de agua diaria para favorecer la hidratacion.
-                                                *No exponerse al sol directo ya que los sitios de puncion se podrian hiperpigmentar. 
-                                                *Utilizar bloqueador solar factor 50 y repasar cada 2 horas. 
+                                                *No exponerse al sol directo ya que los sitios de puncion se podrian hiperpigmentar.
+                                                *Utilizar bloqueador solar factor 50 y repasar cada 2 horas.
                                             </a></li>
                                         </ul>
                                     </li>
