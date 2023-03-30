@@ -11,8 +11,8 @@
 
 
 @section('title','Inicio')
-	
-	
+
+
 @section('content-general')
 
 <div class="sub-banner">
@@ -56,7 +56,7 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>hiperhidrosis  </span> </h2>
-                        <p> 
+                        <p>
 
                         </p>
                     </div>
@@ -69,8 +69,8 @@
                     <li><a>{{ $item->nombre }}</a></li>
                     @endforeach
                 </ul>
-                <div>   
-                    
+                <div>
+
                     @foreach($especialidades AS $item)
                     <div>
                         <div class="row">
@@ -108,7 +108,7 @@
 
 <script type="text/javascript" src="{{ asset('assets/js/jquery.js') }}"></script>
 
-<!-- SMOOTH SCROLL -->	
+<!-- SMOOTH SCROLL -->
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop.js") }}"></script>
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop-smooth.js") }}"></script>
 
@@ -131,19 +131,19 @@
 <script type="text/javascript" src="{{ asset("assets/js/jquery.mmenu.min.all.js") }}"></script>
 
 <!-- All Scripts -->
-<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script> 
+<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script>
 
 
 <script>
     // let div = document.getElementsByClassName('z-arrow');
     // div.value = "hola";
     // div.innerHTML += `<p>Este es una demo</p>`;
-    $('.z-arrow').html(`<img clss="jq-img" 
-                            style="width:10px; 
+    $('.z-arrow').html(`<img clss="jq-img"
+                            style="width:10px;
                                     height:auto;
-                                    margin-top:19px;" 
+                                    margin-top:19px;"
                             src="{{ asset("assets/images/arrow-right.png") }}" alt="" srcset="">`)
-    
+
     $(".z-tabs-mobile").click(function(){
         if($(".z-tabs-mobile").hasClass("z-state-closed") == true){
             //console.log("bajar click");
@@ -151,7 +151,7 @@
             //console.log("subir click");
         }
 
-        
+
     });
 
 </script>
