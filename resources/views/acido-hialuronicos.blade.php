@@ -63,7 +63,7 @@
                 </div>
             </div>
 
-            <div id="tabbed-nav">aaaaaaaaaaa
+            <div id="tabbed-nav">
                 <ul class="z-tabs-nav z-tabs-desktop">
                     @foreach($especialidades AS $index => $item)
                     <li class="demodemo"><a>{{ $item->nombre }}</a></li>
