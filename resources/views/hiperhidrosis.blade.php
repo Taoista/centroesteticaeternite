@@ -24,10 +24,10 @@
                 <div class="col-md-12">
 
                     <div class="paging">
-                        <h2>Thiperhidrosis</h2>
+                        <h2>Hiperhidrosis</h2>
                         <ul>
                             <li><a href="{{ url("/") }}">inicio</a></li>
-                            <li><a>Thiperhidrosis</a></li>
+                            <li><a>Hiperhidrosis</a></li>
                         </ul>
                     </div>
 
