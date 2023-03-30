@@ -410,7 +410,7 @@
                             <h5>Hifu Facial</h5>
                             <p>Es lo último en tratamientos medico-estéticos no quirúrgicos para mejorar la
                                 flacidez corporal y facial </p>
-                           
+
                         </div>
                     </div>
                 </div> --}}
@@ -470,7 +470,7 @@
                             <h5>Hifu Corporal</h5>
                             <p>Es lo último en tratamientos medico-estéticos no quirúrgicos para mejorar la
                                 flacidez corporal y facial </p>
-                              
+
                         </div>
                     </div>
                 </div> --}}
@@ -484,12 +484,12 @@
                             <h5>Depilación Laser</h5>
                             <p>La depilación láser es un método de depilación basado en la
                                 eliminación del vello de forma permanente </p>
-                           
+
                         </div>
                     </div>
                 </div> --}}
 
-              
+
 
                 {{-- <div class="col-md-6">
                     <div class="service-sec">
@@ -530,8 +530,8 @@
                         <div class="col-md-12">
                             <div class="main-title">
                                 <h2><span>Encuentra nuestros</span> Pack de promo</h2>
-                                <p>Solo en Eternite encontraras las mejores promociones y los expertos para tu belleza,
-                                    se parte de la experiencia Eternite </p>
+                                <p>Solo en Duboestetica encontraras las mejores promociones y los expertos para tu belleza,
+                                    se parte de la experiencia Duboestetica </p>
                             </div>
                         </div>
                     </div>
@@ -611,7 +611,7 @@
                                     <span class="name">Elebana Front</span>
                                     <span class="patient">Clienta</span>
                                     <div class="height30"></div>
-                                    <p>Me gusta Centro de estetica Eternite, porque son muy profesionales y
+                                    <p>Me gusta Centro de estetica Duboestetica, porque son muy profesionales y
                                         estan siempre actualizandose en todo lo que a belleza se refiere,
                                         los recomiendo al 100%</p>
                                     <div class="height35"></div>
