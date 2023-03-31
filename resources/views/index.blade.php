@@ -362,12 +362,10 @@
                 {{-- * BOTOX --}}
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-syringe"></i>
-                        </div>
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/botox.png') }}" alt="">
                         <div class="detail">
                             <h5>Botox</h5>
-                            <p>Nos ayuda a eliminar temporalmente las arrugas de expresión</p>
+                            <p>Neurotoxina que paraliza parcialmente algunos músculos previniendo las líneas de expresión</p>
                         </div>
                     </div>
                 </div>
@@ -375,13 +373,13 @@
                 {{-- * Plasma rico en plaquetas --}}
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
+                        {{-- <div class="icon">
                             <i class="icon-eye"></i>
-                        </div>
+                        </div> --}}
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/plasma.png') }}" alt="">
                         <div class="detail">
                             <h5>Plasma rico en plaquetas</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
+                            <p>A través de un proceso que permite extraer tus propias plaquetas con una toma de muestra sanguínea</p>
                         </div>
                     </div>
                 </div>
@@ -389,42 +387,28 @@
                 {{-- * Rejuvenecimiento Facial --}}
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
+                        {{-- <div class="icon">
                             <i class="icon-eye"></i>
-                        </div>
+                        </div> --}}
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
+                            <p>A través de micropunciones en la piel del rostro  administramos principios activos </p>
                         </div>
                     </div>
                 </div>
 
-                {{-- * hiofu facial --}}
-                {{-- <div class="col-md-6">
-                    <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-user6"></i>
-                        </div>
-                        <div class="detail">
-                            <h5>Hifu Facial</h5>
-                            <p>Es lo último en tratamientos medico-estéticos no quirúrgicos para mejorar la
-                                flacidez corporal y facial </p>
-
-                        </div>
-                    </div>
-                </div> --}}
 
                 {{-- * accido hianuronico --}}
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
+                        {{-- <div class="icon">
                             <i class="icon-eye"></i>
-                        </div>
+                        </div> --}}
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/acido.png') }}" alt="">
                         <div class="detail">
                             <h5>Ácido hialuronico</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
+                            <p>Obtiene los labios que siempre has soñado con el relleno o perfilado de labios</p>
                         </div>
                     </div>
                 </div>
@@ -433,13 +417,13 @@
 
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
+                        {{-- <div class="icon">
                             <i class="icon-eye"></i>
-                        </div>
+                        </div> --}}
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/bioestimulacion.png') }}" alt="">
                         <div class="detail">
                             <h5>Bioestimulacion</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
+                            <p>La técnica consiste en administrar en una de las capas superficiales del rostro</p>
                         </div>
                     </div>
                 </div>
@@ -448,74 +432,20 @@
 
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <div class="icon">
+                        {{-- <div class="icon">
                             <i class="icon-user6"></i>
-                        </div>
+                        </div> --}}
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/adomen.png') }}" alt="">
                         <div class="detail">
                             <h5>Abdomen perfecto</h5>
-                            <p>Es lo último en tratamientos medico-estéticos no quirúrgicos para mejorar la
-                                flacidez corporal y facial </p>
+                            <p>Usando la técnica de mesoterapia se administran principios activos que favorecen la reducción de grasa localizada en el abdomen</p>
                                 {{-- mediante la focalización selectiva de energía
                                 ultrasónica. --}}
                         </div>
                     </div>
                 </div>
 
-                {{-- <div class="col-md-6">
-                    <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-user6"></i>
-                        </div>
-                        <div class="detail">
-                            <h5>Hifu Corporal</h5>
-                            <p>Es lo último en tratamientos medico-estéticos no quirúrgicos para mejorar la
-                                flacidez corporal y facial </p>
-
-                        </div>
-                    </div>
-                </div> --}}
-
-                {{-- <div class="col-md-6">
-                    <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-female"></i>
-                        </div>
-                        <div class="detail">
-                            <h5>Depilación Laser</h5>
-                            <p>La depilación láser es un método de depilación basado en la
-                                eliminación del vello de forma permanente </p>
-
-                        </div>
-                    </div>
-                </div> --}}
-
-
-
-                {{-- <div class="col-md-6">
-                    <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-eye"></i>
-                        </div>
-                        <div class="detail">
-                            <h5>Micropigmentación</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
-                        </div>
-                    </div>
-                </div> --}}
-
-                {{-- <div class="col-md-6">
-                    <div class="service-sec">
-                        <div class="icon">
-                            <i class="icon-eye"></i>
-                        </div>
-                        <div class="detail">
-                            <h5>Ácido hialurónico</h5>
-                            <p>Conocida también como maquillaje permanente, es un tratamiento facial que
-                                pretende embellecer el rostro</p>
-                        </div>
-                    </div>
-                </div> --}}
+          
 
             </div>
         </div>
