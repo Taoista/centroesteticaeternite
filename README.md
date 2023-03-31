@@ -22,7 +22,10 @@
 
 Contenedor Docker laravel 8.77 - php 8.1
 --
-con los cambios imprevistos, la base de datos cambio y la forma de como se ejecuta el backend, por ende es buena practiva reestructurar la base de datos
+con los cambios imprevistos, la base de datos cambio y la forma de como se ejecuta el backend, por ende es buena practica reestructurar la base de datos,
+con los servicios finales.
+- verificar controladores
+- modelos
 
 ## Instalacion
 
