@@ -56,7 +56,14 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>Limpieza  </span> facial</h2>
-                       
+                        <p> La toxina botulínica es una neurotoxina elaborada por una bacteria denominada
+                            Clostridium botulinum. La versión más popular de esta neurotoxina por su uso en
+                            estética se denomina bótox. <br>
+                            Es una neurotoxina sintetizada por la bacteria Clostridium botulinum que ayuda a
+                            paralizar de forma progresiva los músculos de cualquier zona del cuerpo. Hoy en día,
+                            se utiliza en los centros de estética para corregir las arrugas faciales en zonas
+                            como la frente, cuello o laterales de los párpados.
+                        </p>
                     </div>
                 </div>
             </div>
