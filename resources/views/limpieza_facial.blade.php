@@ -11,8 +11,8 @@
 
 
 @section('title','Inicio')
-	
-	
+
+
 @section('content-general')
 
 <div class="sub-banner">
@@ -56,13 +56,8 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>Limpieza  </span> facial</h2>
-                        <p> La toxina botulínica es una neurotoxina elaborada por una bacteria denominada
-                            Clostridium botulinum. La versión más popular de esta neurotoxina por su uso en
-                            estética se denomina bótox. <br>
-                            Es una neurotoxina sintetizada por la bacteria Clostridium botulinum que ayuda a
-                            paralizar de forma progresiva los músculos de cualquier zona del cuerpo. Hoy en día,
-                            se utiliza en los centros de estética para corregir las arrugas faciales en zonas
-                            como la frente, cuello o laterales de los párpados.
+                        <p> La base de todo tratamiento estético facial es tener la piel limpia de impurezas. El servicio de limpieza facial profunda cuenta con varios pasos  entre estos están; limpieza cutánea con cremas específicas y aparatología, extracción de comedones, fototerapia y peeling ultrasonico para favorecer la aplicación de principios activos. Resultado; una piel radiante con luminosidad lista para complementar con cualquier otro tratamiento.
+Quedo atenta a comentarios.
                         </p>
                     </div>
                 </div>
@@ -121,7 +116,7 @@
 
 <script type="text/javascript" src="{{ asset('assets/js/jquery.js') }}"></script>
 
-<!-- SMOOTH SCROLL -->	
+<!-- SMOOTH SCROLL -->
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop.js") }}"></script>
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop-smooth.js") }}"></script>
 
@@ -144,19 +139,19 @@
 <script type="text/javascript" src="{{ asset("assets/js/jquery.mmenu.min.all.js") }}"></script>
 
 <!-- All Scripts -->
-<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script> 
+<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script>
 
 
 <script>
     // let div = document.getElementsByClassName('z-arrow');
     // div.value = "hola";
     // div.innerHTML += `<p>Este es una demo</p>`;
-    $('.z-arrow').html(`<img clss="jq-img" 
-                            style="width:10px; 
+    $('.z-arrow').html(`<img clss="jq-img"
+                            style="width:10px;
                                     height:auto;
-                                    margin-top:19px;" 
+                                    margin-top:19px;"
                             src="{{ asset("assets/images/arrow-right.png") }}" alt="" srcset="">`)
-    
+
     $(".z-tabs-mobile").click(function(){
         if($(".z-tabs-mobile").hasClass("z-state-closed") == true){
             //console.log("bajar click");
@@ -164,7 +159,7 @@
             //console.log("subir click");
         }
 
-        
+
     });
 
 </script>
