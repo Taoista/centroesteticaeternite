@@ -11,8 +11,8 @@
 
 
 @section('title','Inicio')
-	
-	
+
+
 @section('content-general')
 
 <div class="sub-banner">
@@ -56,13 +56,7 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>TOXINA</span> BOTULÍNICA</h2>
-                        <p> La toxina botulínica es una neurotoxina elaborada por una bacteria denominada
-                            Clostridium botulinum. La versión más popular de esta neurotoxina por su uso en
-                            estética se denomina bótox. <br>
-                            Es una neurotoxina sintetizada por la bacteria Clostridium botulinum que ayuda a
-                            paralizar de forma progresiva los músculos de cualquier zona del cuerpo. Hoy en día,
-                            se utiliza en los centros de estética para corregir las arrugas faciales en zonas
-                            como la frente, cuello o laterales de los párpados.
+                        <p>
                         </p>
                     </div>
                 </div>
@@ -74,8 +68,8 @@
                     <li><a>{{ $item->nombre }}</a></li>
                     @endforeach
                 </ul>
-                <div>   
-                    
+                <div>
+
                     @foreach($especialidades AS $item)
                     <div>
                         <div class="row">
@@ -94,7 +88,7 @@
                                     </p>
                                     <p class="price big dark">DESDE{{ format_money($item->precio) }}</p>
                                     <a href="https://wa.me/{{ $item->url }}"  target="_blank"><img class="img-wsp-icon-button" src="{{ asset('assets/images/swp.svg') }}" alt="">Reservar</a>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -114,7 +108,7 @@
 
 <script type="text/javascript" src="{{ asset('assets/js/jquery.js') }}"></script>
 
-<!-- SMOOTH SCROLL -->	
+<!-- SMOOTH SCROLL -->
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop.js") }}"></script>
 <script type="text/javascript" src="{{ asset("assets/js/scroll-desktop-smooth.js") }}"></script>
 
@@ -137,19 +131,19 @@
 <script type="text/javascript" src="{{ asset("assets/js/jquery.mmenu.min.all.js") }}"></script>
 
 <!-- All Scripts -->
-<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script> 
+<script type="text/javascript" src="{{ asset("assets/js/custom.js") }}"></script>
 
 
 <script>
     // let div = document.getElementsByClassName('z-arrow');
     // div.value = "hola";
     // div.innerHTML += `<p>Este es una demo</p>`;
-    $('.z-arrow').html(`<img clss="jq-img" 
-                            style="width:10px; 
+    $('.z-arrow').html(`<img clss="jq-img"
+                            style="width:10px;
                                     height:auto;
-                                    margin-top:19px;" 
+                                    margin-top:19px;"
                             src="{{ asset("assets/images/arrow-right.png") }}" alt="" srcset="">`)
-    
+
     $(".z-tabs-mobile").click(function(){
         if($(".z-tabs-mobile").hasClass("z-state-closed") == true){
             //console.log("bajar click");
@@ -157,7 +151,7 @@
             //console.log("subir click");
         }
 
-        
+
     });
 
 </script>

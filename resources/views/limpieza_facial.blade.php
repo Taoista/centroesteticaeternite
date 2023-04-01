@@ -56,8 +56,7 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>Limpieza  </span> facial</h2>
-                        <p> La base de todo tratamiento estético facial es tener la piel limpia de impurezas. El servicio de limpieza facial profunda cuenta con varios pasos  entre estos están; limpieza cutánea con cremas específicas y aparatología, extracción de comedones, fototerapia y peeling ultrasonico para favorecer la aplicación de principios activos. Resultado; una piel radiante con luminosidad lista para complementar con cualquier otro tratamiento.
-Quedo atenta a comentarios.
+                        <p>
                         </p>
                     </div>
                 </div>
