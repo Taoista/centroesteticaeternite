@@ -300,7 +300,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>A través de micropunciones en la piel del rostro  administramos principios activos </p>
+                            <p>la técnica consiste en combatir la flacidez del rostro con la administración de hilos PDO</p>
                         </div>
                     </div>
                 </div>
@@ -315,7 +315,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/acido.png') }}" alt="">
                         <div class="detail">
                             <h5>Ácido hialuronico</h5>
-                            <p>Obtiene los labios que siempre has soñado con el relleno o perfilado de labios</p>
+                            <p>Usando este elemento podemos dar volumen y/o hidratación en la zona a tratar</p>
                         </div>
                     </div>
                 </div>
