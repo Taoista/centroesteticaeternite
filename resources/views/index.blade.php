@@ -460,29 +460,20 @@
 
                                     <img src="{{ asset("assets/images/testimonial-img2.jpg") }}" alt="">
                                     <div class="height10"></div>
-                                    <span class="name">Johny Bravo</span>
-                                    <span class="patient">Hair Patient</span>
+                                    <span class="name">Daniela Daniela</span>
+                                    <span class="patient">Botox</span>
                                     <div class="height30"></div>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                                        nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-                                        volutpat. vitae felis pretium, euismod ipsum nec, placerat turpis.
-                                        Aenean eu gravida arcu, et consectetur Quisque posuere dolor in
-                                        malesuada fermentum sed diam nonummy nibh euismod tincidunt ut
-                                        laoreet dolore magna aliquam erat volutpat.</p>
+                                    <p>¡Felicitaciones por mi tratamiento de Botox! Me siento muy feliz y satisfecho con los resultados. Me siento más confiado y seguro de mi aspecto. Me alegro de haber invertido en mí mismo y en mi bienestar personal. Voy a seguir cuidándome y sintiéndome bien conmigo mismo.</p>
 
                                 </div>
                                 <div class="testi-sec">
                                     <img src="{{ asset("assets/images/testimonial-img3.jpg") }}" alt="">
                                     <div class="height10"></div>
-                                    <span class="name">Rubica Noi</span>
-                                    <span class="patient">Skin Patient</span>
+                                    <span class="name">Valentina Valentina</span>
+                                    <span class="patient">Limpieza Facial</span>
                                     <div class="height30"></div>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                                        nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-                                        volutpat. vitae felis pretium, euismod ipsum nec, placerat turpis.
-                                        Aenean eu gravida arcu, et consectetur orci Quisque posuere dolor in
-                                        malesuada fermentum.</p>
+                                    <p>¡Felicitaciones por mi limpieza facial, Me siento tan fresco y renovado después de este tratamiento. Mi piel se siente increíblemente suave y limpia. Me alegra haber tomado el tiempo para cuidar mi piel y dejarla en manos de un profesional. Es importante mimarse a uno mismo de vez en cuando y hacer cosas que nos hagan sentir bien. Voy a seguir cuidando de mi piel y mimándome para mantener esta sensación de frescura. ¡Gracias por ser parte de mi viaje de cuidado personal!</p>
                                     <div class="height35"></div>
 
 
