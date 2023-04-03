@@ -286,7 +286,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/plasma.png') }}" alt="">
                         <div class="detail">
                             <h5>Plasma rico en plaquetas</h5>
-                            <p>A través de un proceso que permite extraer tus propias plaquetas con una toma de muestra sanguínea</p>
+                            <p>estimular el colágeno y elastina de tu piel, con el plasma rico en plaquetas, mejorando visiblemente la calidad de esta</p>
                         </div>
                     </div>
                 </div>
