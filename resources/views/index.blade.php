@@ -300,7 +300,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>la técnica consiste en combatir la flacidez del rostro con la administración de hilos PDO</p>
+                            <p>En rejuvenecimiento facial agreguemos “,que revitalizan tu rostro</p>
                         </div>
                     </div>
                 </div>
@@ -330,7 +330,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/bioestimulacion.png') }}" alt="">
                         <div class="detail">
                             <h5>Bioestimulacion</h5>
-                            <p>La técnica consiste en administrar en una de las capas superficiales del rostro</p>
+                            <p>la técnica consiste en combatir la flacidez del rostro con la administración de hilos PDO</p>
                         </div>
                     </div>
                 </div>
