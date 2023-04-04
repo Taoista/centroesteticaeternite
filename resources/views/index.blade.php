@@ -39,7 +39,7 @@
 
                 <li data-transition="fade" data-slotamount="7" data-masterspeed="500"  data-saveperformance="on"  data-title="Intro Slide">
 
-                    <img src="{{ asset("assets/images/slides/limp_facial.jpg") }}" alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img  src="{{ asset("assets/images/slides/limp_facial.jpg") }}" alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
 
                     <div class="tp-caption customin customout rs-parallaxlevel-0"
@@ -52,7 +52,7 @@
                         data-easing="Power3.easeInOut"
                         data-elementdelay="0.1"
                         data-endelementdelay="0.1"
-                        style="z-index: 4;"><img style="border-bottom:solid 6px #02adc6;" src="{{ asset("assets/images/slides/transprint-bg.png") }}" alt="" >
+                        style="z-index: 4;"><img class="img-banner" style="border-bottom:solid 6px #02adc6; " src="{{ asset("assets/images/slides/transprint-bg.png") }}" alt="" >
 
                     </div>
 
@@ -135,7 +135,7 @@
 			data-easing="Power3.easeInOut"
 			data-elementdelay="0.1"
 			data-endelementdelay="0.1"
-			style="z-index: 4;"><img style="border-bottom:solid 6px #02adc6;" src="{{ asset("assets/images/slides/transprint-bg.png") }}" alt="" >
+			style="z-index: 4;"><img class="img-banner" style="border-bottom:solid 6px #02adc6;" src="{{ asset("assets/images/slides/transprint-bg.png") }}" alt="" >
 
 		</div>
 
@@ -179,7 +179,7 @@
 			data-elementdelay="0.05"
 			data-endelementdelay="0.1"
 			data-endspeed="300"
-			style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;"><div style="text-align:left;"> Obtiene los labios que siempre has soñado con el relleno 
+			style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;"><div style="text-align:left;"> Obtiene los labios que siempre has soñado con el relleno
                 <br />o perfilado de labios</div>
 		</div>
 
@@ -212,7 +212,7 @@
             data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
             data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
             data-speed="700" data-start="1200" data-easing="Power3.easeInOut" data-elementdelay="0.1"
-            data-endelementdelay="0.1" style="z-index: 4;"><img style="border-bottom:solid 6px #02adc6;"
+            data-endelementdelay="0.1" style="z-index: 4;"><img style="border-bottom:solid 6px #02adc6;" class="img-banner"
                 src="{{ asset('assets/images/slides/transprint-bg.png') }}" alt="">
         </div>
 
@@ -236,7 +236,7 @@
             data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
             data-endspeed="300"
             style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
-            <div style="text-align:left;">Neurotoxina que paraliza parcialmente algunos músculos previniendo las 
+            <div style="text-align:left;">Neurotoxina que paraliza parcialmente algunos músculos previniendo las
                 <br />líneas de expresión
             </div>
         </div>
@@ -352,7 +352,7 @@
                     </div>
                 </div>
 
-          
+
 
             </div>
         </div>
@@ -367,8 +367,8 @@
                         <div class="col-md-12">
                             <div class="main-title">
                                 <h2><span>Encuentra nuestros</span> Pack de promo</h2>
-                                <p>Solo en Duboestetica encontraras las mejores promociones y los expertos para tu belleza,
-                                    se parte de la experiencia Duboestetica </p>
+                                <p>Solo en Dubó Estetica encontraras las mejores promociones y los expertos para tu belleza,
+                                    se parte de la experiencia Dubó Estetica </p>
                             </div>
                         </div>
                     </div>
@@ -448,7 +448,7 @@
                                     <span class="name">Elebana Front</span>
                                     <span class="patient">Clienta</span>
                                     <div class="height30"></div>
-                                    <p>Me gusta Centro de estetica Duboestetica, porque son muy profesionales y
+                                    <p>Me gusta Centro de estetica Dubó Estetica, porque son muy profesionales y
                                         estan siempre actualizandose en todo lo que a belleza se refiere,
                                         los recomiendo al 100%</p>
                                     <div class="height35"></div>
