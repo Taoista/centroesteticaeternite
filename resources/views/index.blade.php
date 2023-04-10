@@ -272,7 +272,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/botox.png') }}" alt="">
                         <div class="detail">
                             <h5>Botox</h5>
-                            <p>Neurotoxina que paraliza parcialmente algunos músculos previniendo las líneas de expresión</p>
+                            <p>Neurotoxina que paraliza parcialmente algunos músculos previniendo las líneas de expresión.</p>
                         </div>
                     </div>
                 </div>
@@ -286,7 +286,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/plasma.png') }}" alt="">
                         <div class="detail">
                             <h5>Plasma rico en plaquetas</h5>
-                            <p>estimular el colágeno y elastina de tu piel, con el plasma rico en plaquetas, mejorando visiblemente la calidad de esta</p>
+                            <p>Estimular el colágeno y elastina de tu piel, con el plasma rico en plaquetas, mejorando visiblemente la calidad de esta.</p>
                         </div>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail mod-new">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>Que revitalizan tu rostro</p>
+                            <p>Que revitalizan tu rostro.</p>
                         </div>
                     </div>
                 </div>
@@ -315,7 +315,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/acido.png') }}" alt="">
                         <div class="detail">
                             <h5>Ácido hialuronico</h5>
-                            <p>Usando este elemento podemos dar volumen y/o hidratación en la zona a tratar</p>
+                            <p>Usando este elemento podemos dar volumen y/o hidratación en la zona a tratar.</p>
                         </div>
                     </div>
                 </div>
@@ -330,7 +330,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/bioestimulacion.png') }}" alt="">
                         <div class="detail">
                             <h5>Bioestimulacion</h5>
-                            <p>la técnica consiste en combatir la flacidez del rostro con la administración de hilos PDO</p>
+                            <p>La técnica consiste en combatir la flacidez del rostro con la administración de hilos PDO.</p>
                         </div>
                     </div>
                 </div>
@@ -345,7 +345,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/adomen.png') }}" alt="">
                         <div class="detail">
                             <h5>Abdomen perfecto</h5>
-                            <p>Usando la técnica de mesoterapia se administran principios activos que favorecen la reducción de grasa localizada en el abdomen</p>
+                            <p>Usando la técnica de mesoterapia se administran principios activos que favorecen la reducción de grasa localizada en el abdomen.</p>
                                 {{-- mediante la focalización selectiva de energía
                                 ultrasónica. --}}
                         </div>
@@ -368,7 +368,7 @@
                             <div class="main-title">
                                 <h2><span>Encuentra nuestros</span> Pack de promo</h2>
                                 <p>Solo en Dubó Estetica encontraras las mejores promociones y los expertos para tu belleza,
-                                    se parte de la experiencia Dubó Estetica </p>
+                                    se parte de la experiencia Dubó Estetica.</p>
                             </div>
                         </div>
                     </div>
