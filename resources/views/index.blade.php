@@ -298,9 +298,9 @@
                             <i class="icon-eye"></i>
                         </div> --}}
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
-                        <div class="detail">
+                        <div class="detail mod-new">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>que revitalizan tu rostro</p>
+                            <p>Que revitalizan tu rostro</p>
                         </div>
                     </div>
                 </div>

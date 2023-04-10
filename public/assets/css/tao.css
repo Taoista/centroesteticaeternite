@@ -50,3 +50,8 @@ select#especialidadSelect, option {
   }
 
 }
+
+.detail.mod-new {
+  margin-left: 26px !important;
+  width: 300px !important;
+}
