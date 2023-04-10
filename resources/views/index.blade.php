@@ -377,7 +377,7 @@
                         <ul>
                             <li><a>Lifting Facial</a></li>
                             <li><a>Toxina Botulínica </a></li>
-                            <li><a>Ácido hialurónico</a></li>
+                            <li><a>Limpieza facial</a></li>
                             {{-- <li><a>Micropigmentación</a></li> --}}
                         </ul>
                         <div>
