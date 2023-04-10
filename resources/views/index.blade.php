@@ -300,7 +300,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>En rejuvenecimiento facial agreguemos “,que revitalizan tu rostro</p>
+                            <p>que revitalizan tu rostro</p>
                         </div>
                     </div>
                 </div>
