@@ -300,7 +300,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/rejuvenecimiento.png') }}" alt="">
                         <div class="detail mod-new">
                             <h5>Rejuvenecimiento Facial</h5>
-                            <p>A través de micropunciones en la piel del rostro, administramos principios activos que revitalizan tu rostro.</p>
+                            <p>Administraremos principios activos que revitalizan tu rostro con resultados naturales.</p>
                         </div>
                     </div>
                 </div>
