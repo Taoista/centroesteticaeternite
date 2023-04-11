@@ -53,7 +53,7 @@ select#especialidadSelect, option {
 
 .detail.mod-new {
   margin-left: 26px !important;
-  width: 300px !important;
+  /* width: 300px !important; */
 }
 
 /* * fix correccion al texto de las secciones ya que no se ve el acento */
