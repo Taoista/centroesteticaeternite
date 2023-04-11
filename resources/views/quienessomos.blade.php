@@ -131,7 +131,7 @@
                         <div class="col-md-8">
 
                             <div class="main-title">
-                                <h2><span>Quienes</span> somos</h2>
+                                <h2><span>Quiénes </span> somos</h2>
                                 <p>Somos un centro de estética enfocado en satisfacer tus expectativas y necesidades en el ambito de la belleza, para sacar la mejor versión de ti mismo(a), ofreciendote un espacio y tiempo para darle amor a la persona mas importante de tu vida...Tú.
                                 </p>
                             </div>

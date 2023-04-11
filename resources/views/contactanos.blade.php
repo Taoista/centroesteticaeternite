@@ -21,10 +21,10 @@
 						<div class="col-md-12">
 						
 							<div class="paging">
-								<h2>Contactanos</h2>
+								<h2>Contáctanos </h2>
 								<ul>
 									<li><a href="index.html">Inicio</a></li>
-									<li><a>Contactanos</a></li>
+									<li><a>Contáctanos</a></li>
 								</ul>
 							</div>
 						
@@ -85,7 +85,7 @@
 								<div class="contact-get">
 									<div class="main-title">
 										<h2><span>Datos</span> Contacto</h2>
-										<p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies.</p>
+										{{-- <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies.</p> --}}
 									</div>
 								
 									<div class="get-in-touch">

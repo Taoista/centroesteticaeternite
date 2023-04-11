@@ -24,10 +24,10 @@
                 <div class="col-md-12">
 
                     <div class="paging">
-                        <h2>Ácido hialuronico</h2>
+                        <h2>Ácido Hialurónico </h2>
                         <ul>
                             <li><a href="{{ url("/") }}">inicio</a></li>
-                            <li><a>Ácido hialuronico</a></li>
+                            <li><a>Ácido Hialurónico  </a></li>
                         </ul>
                     </div>
 
@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="main-title">
-                        <h2><span>Ácido </span> hialuronico</h2>
+                        <h2><span>Ácido </span> Hialurónico </h2>
                         <p>
 
                         </p>
@@ -81,7 +81,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="detail">
-                                    <h4>{{ $item->nombre }}</h4>
+                                    <h4 class="fix-f4">{{ $item->nombre }}</h4>
                                     <p class="text-center">
                                         {{ $item->txt1 }}
                                         <br/><br/>

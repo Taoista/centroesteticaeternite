@@ -24,10 +24,10 @@
                 <div class="col-md-12">
 
                     <div class="paging">
-                        <h2>Bioestimulacion</h2>
+                        <h2>Bioestimulación</h2>
                         <ul>
                             <li><a href="{{ url("/") }}">inicio</a></li>
-                            <li><a>Bioestimulacion</a></li>
+                            <li><a>Bioestimulación</a></li>
                         </ul>
                     </div>
 

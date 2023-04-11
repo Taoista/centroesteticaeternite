@@ -236,8 +236,8 @@
             data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
             data-endspeed="300"
             style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
-            <div style="text-align:left;">Neurotoxina que paraliza parcialmente algunos músculos previniendo las
-                <br />líneas de expresión
+            <div style="text-align:left;">Neurotoxina que paraliza parcialmente <br> algunos músculos previniendo las
+                líneas de expresión
             </div>
         </div>
 
@@ -286,7 +286,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/plasma.png') }}" alt="">
                         <div class="detail">
                             <h5>Plasma rico en plaquetas</h5>
-                            <p>Estimular el colágeno y elastina de tu piel, con el plasma rico en plaquetas, mejorando visiblemente la calidad de esta.</p>
+                            <p>Estima el colágeno y elastina de tu piel, con el plasma rico en plaquetas, mejorando visiblemente la calidad de esta.</p>
                         </div>
                     </div>
                 </div>
@@ -315,7 +315,7 @@
                         <img style="width: 97px" src="{{ asset('assets/images/icon/acido.png') }}" alt="">
                         <div class="detail">
                             <h5>Ácido hialuronico</h5>
-                            <p>Usando este elemento podemos dar volumen y/o hidratación en la zona a tratar.</p>
+                            <p>Usando este elemento podemos dar volumen y/o hidratación en la zona que se decida tratar.</p>
                         </div>
                     </div>
                 </div>
@@ -367,8 +367,7 @@
                         <div class="col-md-12">
                             <div class="main-title">
                                 <h2><span>Encuentra nuestros</span> Pack de promo</h2>
-                                <p>Solo en Dubó Estetica encontraras las mejores promociones y los expertos para tu belleza,
-                                    se parte de la experiencia Dubó Estetica.</p>
+                                <p>Solo en Dubó estética encontrarás las mejores promociones, en manos de expertos. Se parte de esta experiencia en Dubó estética.</p>
                             </div>
                         </div>
                     </div>
@@ -445,12 +444,12 @@
 
                                     <img src="{{ asset("assets/images/testimonial-img1.jpg") }}" alt="">
                                     <div class="height10"></div>
-                                    <span class="name">Elebana Front</span>
-                                    <span class="patient">Clienta</span>
+                                    <span class="name">Paula Sánchez</span>
+                                    <span class="patient">Paula Sánchez</span>
                                     <div class="height30"></div>
-                                    <p>Me gusta Centro de estetica Dubó Estetica, porque son muy profesionales y
-                                        estan siempre actualizandose en todo lo que a belleza se refiere,
-                                        los recomiendo al 100%</p>
+                                    <p>¡Me siento renovada después de mi lifting facial en el centro de estética!
+                                        Después de notar que mi piel comenzaba a mostrar signos de envejecimiento, decidí tomar medidas para mejorar mi apariencia. Después de investigar diversas opciones, decidí probar un lifting facial en el centro de estética, y debo decir que fue una de las mejores decisiones que he tomado.
+                                        En el centro de estética, el personal fue muy profesional y me guió a través del proceso del lifting facial. Me realizaron una evaluación de mi piel y me explicaron cómo se llevaría a cabo el procedimiento. El procedimiento en sí no fue doloroso en absoluto y me sentí en buenas manos todo el tiempo.</p>
                                     <div class="height35"></div>
 
 
@@ -460,20 +459,20 @@
 
                                     <img src="{{ asset("assets/images/testimonial-img2.jpg") }}" alt="">
                                     <div class="height10"></div>
-                                    <span class="name">Daniela Daniela</span>
+                                    <span class="name">María González</span>
                                     <span class="patient">Botox</span>
                                     <div class="height30"></div>
-                                    <p>¡Felicitaciones por mi tratamiento de Botox! Me siento muy feliz y satisfecho con los resultados. Me siento más confiado y seguro de mi aspecto. Me alegro de haber invertido en mí mismo y en mi bienestar personal. Voy a seguir cuidándome y sintiéndome bien conmigo mismo.</p>
+                                    <p>¡Gracias al tratamiento de Botox en el centro de estética, me siento como una nueva persona! Después de luchar con arrugas faciales durante algún tiempo, finalmente decidí probar el tratamiento de Botox. En el centro de estética, el personal fue amable y profesional, y el tratamiento fue rápido y sin dolor. Ahora, algunas semanas después, estoy muy contenta con los resultados y recomiendo el tratamiento a cualquiera que busque reducir la apariencia de las arrugas faciales.</p>
 
                                 </div>
                                 <div class="testi-sec">
                                     <img src="{{ asset("assets/images/testimonial-img3.jpg") }}" alt="">
                                     <div class="height10"></div>
-                                    <span class="name">Valentina Valentina</span>
+                                    <span class="name">Ana Flores</span>
                                     <span class="patient">Limpieza Facial</span>
                                     <div class="height30"></div>
 
-                                    <p>¡Felicitaciones por mi limpieza facial, Me siento tan fresco y renovado después de este tratamiento. Mi piel se siente increíblemente suave y limpia. Me alegra haber tomado el tiempo para cuidar mi piel y dejarla en manos de un profesional. Es importante mimarse a uno mismo de vez en cuando y hacer cosas que nos hagan sentir bien. Voy a seguir cuidando de mi piel y mimándome para mantener esta sensación de frescura. ¡Gracias por ser parte de mi viaje de cuidado personal!</p>
+                                    <p>Hace poco, me realicé una limpieza facial en un centro de estética y debo decir que fue una de las mejores decisiones que he tomado en mi vida. Después de luchar con la piel opaca y con impurezas durante algún tiempo, estaba buscando una solución que no incluyera productos agresivos o costosos.</p>
                                     <div class="height35"></div>
 
 

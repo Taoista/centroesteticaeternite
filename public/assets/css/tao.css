@@ -55,3 +55,9 @@ select#especialidadSelect, option {
   margin-left: 26px !important;
   width: 300px !important;
 }
+
+/* * fix correccion al texto de las secciones ya que no se ve el acento */
+
+h4.fix-f4 {
+  margin-top: 10px;
+}

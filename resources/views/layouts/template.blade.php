@@ -145,7 +145,7 @@
 
                                 {{-- <li><a href="{{ url("./shop") }}">Tienda</a></li> --}}
 
-                                <li class="{{ $selected == 4 ? 'item-select' : '' }}"><a href="{{ url('./quienessomos') }}">Quienes somos</a></li>
+                                <li class="{{ $selected == 4 ? 'item-select' : '' }}"><a href="{{ url('./quienessomos') }}">Quiénes  somos</a></li>
 
                                 <li class="{{ $selected == 5 ? 'item-select' : '' }} parent"><a href="{{ url('./contactanos') }}">Contacto</a></li>
 
