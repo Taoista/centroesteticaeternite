@@ -269,7 +269,7 @@
                 {{-- * BOTOX --}}
                 <div class="col-md-6">
                     <div class="service-sec">
-                        <img style="width: 97px" src="{{ asset('assets/images/icon/botox.png') }}" alt="">
+                        <img style="width: 97px" src="{{ asset('assets/images/icon/plasma.png') }}" alt="">
                         <div class="detail">
                             <h5>Botox</h5>
                             <p>Neurotoxina que paraliza parcialmente algunos músculos previniendo las líneas de expresión.</p>
