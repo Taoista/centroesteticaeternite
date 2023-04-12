@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="main-title">
-                        <h2><span>hiperhidrosis  </span> </h2>
+                        <h2><span>Hiperhidrosis  </span> </h2>
                         <p>
 
                         </p>
