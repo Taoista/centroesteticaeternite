@@ -66,6 +66,7 @@
 									<h2><span>Formulario</span> Contacto <span></span></h2>
 									{{-- <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue. </p> --}}
 								</div>
+								
 								<div class="form">
 									<div class="row">
 										<p class="success" id="success" style="display:none;"></p>
@@ -79,6 +80,7 @@
 										</form>
 									</div>
 								</div>
+
 							</div>
 							
 							<div class="col-md-5">

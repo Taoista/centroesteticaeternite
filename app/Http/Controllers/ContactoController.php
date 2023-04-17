@@ -46,8 +46,8 @@ class ContactoController extends Controller{
         $email = strtolower($data["email"]);
         $subject = strtolower($data["subject"]);
         $msg = strtolower($data["msg"]);
-
         $email_contacto = $this->get_email_contact()[0]["resultado"];
+        // return $email_contacto;
         $correo = new ContactanosMailable($nombre, $email, $subject, $msg);
         Mail::to($email_contacto)->send($correo); 
         return "ok";
