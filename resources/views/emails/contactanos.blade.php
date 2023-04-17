@@ -116,7 +116,7 @@
 <td style="padding-bottom:80px;padding-left:30px;padding-right:30px;padding-top:10px;">
 <div style="font-family: sans-serif">
 <div style="font-size: 14px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 21px; color: #2f2f2f; line-height: 1.5;">
-<p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 24px;"><span style="font-size:16px;">Hola <strong><u>{{ $nombre }}</u></strong>,</span></p>
+<p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 24px;"><span style="font-size:16px;"><strong><u>{{ $nombre }}</u></strong>,</span></p>
 <p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 21px;">{{ $email }} </p>
 <p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 21px;">{{ $asunto }} </p>
 <p style="margin: 0; font-size: 14px; text-align: center;">MSG > {{ $msg }}</p>
@@ -156,9 +156,9 @@
 <td>
 <table align="center" border="0" cellpadding="0" cellspacing="0" class="social-table" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="108px">
 <tr>
-<td style="padding:0 2px 0 2px;"><a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" height="32" src="{{ asset("assets/images/facebook2x.png") }}" style="display: block; height: auto; border: 0;" title="Facebook" width="32"/></a></td>
-<td style="padding:0 2px 0 2px;"><a href="https://twitter.com/" target="_blank"><img alt="Twitter" height="32" src="{{ asset("assets/images/twitter2x.png") }}" style="display: block; height: auto; border: 0;" title="Twitter" width="32"/></a></td>
-<td style="padding:0 2px 0 2px;"><a href="https://instagram.com/" target="_blank"><img alt="Instagram" height="32" src="{{ asset("assets/images/instagram2x.png") }}" style="display: block; height: auto; border: 0;" title="Instagram" width="32"/></a></td>
+{{-- <td style="padding:0 2px 0 2px;"><a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" height="32" src="{{ asset("assets/images/facebook2x.png") }}" style="display: block; height: auto; border: 0;" title="Facebook" width="32"/></a></td> --}}
+{{-- <td style="padding:0 2px 0 2px;"><a href="https://twitter.com/" target="_blank"><img alt="Twitter" height="32" src="{{ asset("assets/images/twitter2x.png") }}" style="display: block; height: auto; border: 0;" title="Twitter" width="32"/></a></td> --}}
+{{-- <td style="padding:0 2px 0 2px;"><a href="https://instagram.com/" target="_blank"><img alt="Instagram" height="32" src="{{ asset("assets/images/instagram2x.png") }}" style="display: block; height: auto; border: 0;" title="Instagram" width="32"/></a></td> --}}
 </tr>
 </table>
 </td>

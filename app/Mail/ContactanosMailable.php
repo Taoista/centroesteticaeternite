@@ -40,6 +40,8 @@ class ContactanosMailable extends Mailable{
         $this->fecha = date("d/m/Y");
         
         $this->direccion = "";
+        $this->email_contacto = "";
+        $this->tel_contacto = "";
         
     }
 
