@@ -175,7 +175,7 @@
                 <nav id="menu">
                     <ul>
                         <li class="select"><a href="{{ url("./") }}">Inicio</a></li>
-         
+
                         @foreach (servicios() AS $item)
                         <li> <a href="{{ url($item->url) }}">{{  ucfirst(strtolower($item->nombre)) }}</a> </i></li>
                         @endforeach
@@ -307,9 +307,9 @@
 
                                     <ul>
                                         <li><i class="icon-time"></i> <span>Lunes - Viernes </span></li>
-                                        <li><i class=""></i> <span>08.00hrs-16.00hrs</span></li>
-                                        <li><i class="icon-time"></i> <span>Sábado </span></li>
-                                        <li><i class=""></i> <span>09.15hrs - 17.00hrs        </span></li>
+                                        <li><i class=""></i> <span>09.00hrs-18.00hrs</span></li>
+                                        <li><i class="icon-time"></i> <span>Sábado</span></li>
+                                        <li><i class=""></i> <span>09.00hrs - 12.00hrs</span></li>
                                         <li><i class="icon-time"></i> <span>Domingo - Cerrado </span></li>
                                     </ul>
 
@@ -362,5 +362,14 @@
 @yield('content-js')
 <script src="{{ asset("assets/js/newslatter.js") }}"></script>
 <script src="{{ asset("assets/js/agenda.js") }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11217750342">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11217750342');
+</script>
 </body>
 </html>
